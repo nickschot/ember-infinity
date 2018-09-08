@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-infinity'
+  name: require('./package').name
 };
